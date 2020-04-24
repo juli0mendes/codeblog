@@ -1,2 +1,2 @@
 # codeblog
-aplicação java 8 com spring boot, spring security, thymeleaf, spring data, persistência em postgre e configuração para deploy na aws (elastic beanstalk)
+java 8 application with spring boot, spring security, thymeleaf, spring data, postgre persistence and configuration for deploying on aws (elastic beanstalk)
